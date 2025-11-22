@@ -2,6 +2,7 @@
 
 This project demonstrates a full **SQL + Python + Dashboard** workflow suitable for a data analyst role.
 
+
 ## Components
 
 1. **SQLite Database (`portfolio.db`)**
@@ -47,6 +48,7 @@ streamlit run portfolio_dashboard.py
 
 The app will connect to `portfolio.db` and display the analytics dashboard.
 
-You can talk about this project in interviews as:
+[![Open in Streamlit](https://img.shields.io/badge/Live%20App-Streamlit-blue?style=for-the-badge)](https://equity-analytics-portfolio-project-5mou7if7fsgkzixa36e3sx.streamlit.app/)
+
 
 > "I built an end-to-end portfolio analytics system: SQL for data storage & queries, Python for analytics, and Streamlit for the business-facing dashboard."
