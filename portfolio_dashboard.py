@@ -119,7 +119,8 @@ def format_pct(x, decimals=1):
 
 st.set_page_config(page_title="Equity Portfolio Dashboard", layout="wide")
 
-st.title("📊 Equity Portfolio Analytics Dashboard")
+st.title("Equity Portfolio Analytics Dashboard")
+st.write("Created By: Aman")
 st.caption("Data source: SQLite database `portfolio.db` populated via the Jupyter notebook.")
 
 st.sidebar.header("Controls")
