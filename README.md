@@ -1,6 +1,6 @@
 # Equity Portfolio Analytics – End-to-End Job Portfolio Project
 
-This project demonstrates a full **SQL + Python + Dashboard** workflow suitable for a data analyst role.
+This project demonstrates a full **SQL + Python + Dashboard** workflow 
 
 
 ## Components
