@@ -46,7 +46,7 @@ This will create `portfolio.db` and populate it with recent market data.
 streamlit run portfolio_dashboard.py
 ```
 
-The app will connect to `portfolio.db` and display the analytics dashboard.
+The app will connect to `portfolio.db` and display the analytics dashboard. Press on Blue Streamlit Icon to Open the Dashboard
 
 [![Open in Streamlit](https://img.shields.io/badge/Live%20App-Streamlit-blue?style=for-the-badge)](https://equity-analytics-portfolio-project-5mou7if7fsgkzixa36e3sx.streamlit.app/)
 
